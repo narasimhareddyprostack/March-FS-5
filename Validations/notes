@@ -1,0 +1,14 @@
+required
+disabled
+readonly
+min
+max
+
+minlength
+maxlength
+name 
+id
+value
+placeholder
+tabindex
+pattern
