@@ -1,0 +1,12 @@
+a{
+    background-color: yellow;
+}
+
+a[target]{
+    background-color: red;
+}
+
+*{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-variant: normal;
+}
